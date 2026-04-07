@@ -30,21 +30,21 @@ $response['products'] = [
         'name' => 'Semen Konstruksi Tipe 1 (Zak 50kg)',
         'stock' => 5000,
         'price' => 55000,
-        's3_image_url' => 'https://GANTI_DENGAN_LINK_S3_KAMU_NANTI.s3.ap-southeast-3.amazonaws.com/produk1.jpg'
+        's3_image_url' => 'https://b2b-katalog-ilham.s3.ap-southeast-3.amazonaws.com/produk-semen.png'
     ],
     [
         'id' => 'PRD-002',
         'name' => 'Besi Beton Ulir Standar SNI 12mm',
         'stock' => 1200,
         'price' => 95000,
-        's3_image_url' => 'https://GANTI_DENGAN_LINK_S3_KAMU_NANTI.s3.ap-southeast-3.amazonaws.com/produk2.jpg'
+        's3_image_url' => 'https://b2b-katalog-ilham.s3.ap-southeast-3.amazonaws.com/produk-besi.jpg'
     ],
     [
         'id' => 'PRD-003',
         'name' => 'Batu Bata Merah Oven (Per 1000 Pcs)',
         'stock' => 850,
         'price' => 850000,
-        's3_image_url' => 'https://GANTI_DENGAN_LINK_S3_KAMU_NANTI.s3.ap-southeast-3.amazonaws.com/produk3.jpg'
+        's3_image_url' => 'https://b2b-katalog-ilham.s3.ap-southeast-3.amazonaws.com/produk-bata.jpg'
     ]
 ];
 
