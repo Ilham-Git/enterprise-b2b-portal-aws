@@ -17,6 +17,7 @@ Proyek ini dilengkapi dengan dokumentasi teknis mendalam yang merefleksikan stan
 - [002 - Solusi Arsitektur 3-Tier](docs/002-architecture-solution.md)
 - [003 - Justifikasi Layanan (ADR: EC2 vs ECS, RDS vs DynamoDB)](docs/003-services-justification.md)
 - [004 - Log Post-Mortem & Troubleshooting (Penyelesaian Insiden)](docs/004-post-mortem-troubleshooting.md)
+- [005 - Monitoring, Alarms & Disaster Recovery (CloudWatch, SNS, AMI)](docs/005-monitoring-disaster-recovery.md)
 
 ## Teknologi yang Digunakan
 - **Cloud Provider:** Amazon Web Services (VPC, IGW, EC2, S3, RDS, Security Groups)
